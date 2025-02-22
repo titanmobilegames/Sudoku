@@ -1,76 +1,68 @@
-Privacy Policy
+**Privacy Policy**
 
-Effective Date: [Insert Date]
+Effective Date: 22.02.2025
 
-1. Introduction
+**1. Introduction**
 
 Welcome to Sudoku ("the Game"). This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile game. By downloading, accessing, or using the Game, you agree to the terms outlined in this policy.
 
-2. Information We Collect
+**2. Information We Collect**
 
 We do not collect personal data directly. However, third-party services integrated into the Game, such as Google AdMob and Firebase, may collect and process certain information. The types of data collected include:
 
-Device identifiers (such as Android Advertising ID or IDFA)
+- Device identifiers (such as Android Advertising ID or IDFA)
+- IP address and general location data
+- Usage statistics and in-game analytics
+- Ad performance data
 
-IP address and general location data
-
-Usage statistics and in-game analytics
-
-Ad performance data
-
-3. How We Use Your Information
+**3. How We Use Your Information**
 The collected data is used for the following purposes:
 
-Serving personalized and non-personalized ads (with user consent)
+- Serving personalized and non-personalized ads (with user consent)
+- Analyzing game performance and user engagement
+- Improving game functionality and user experience
 
-Analyzing game performance and user engagement
-
-Improving game functionality and user experience
-
-4. Third-Party Services
+**4. Third-Party Services**
 We use third-party services that may collect data under their own privacy policies:
 
-Google AdMob (for advertisements)
-
-Google Analytics for Firebase (for app usage analytics)
+- **Google AdMob** (for advertisements)
+- **Google Analytics for Firebase** (for app usage analytics)
 
 These services may process your data in accordance with their respective privacy policies. You can review their policies on their official websites.
 
-5. User Consent and Choices
+**5. User Consent and Choices**
 
-We will request your consent before enabling targeted advertising (GDPR compliance).
+- We will request your consent before enabling targeted advertising (GDPR compliance).
+- You can opt-out of personalized ads through your device settings (AdMob opt-out instructions provided in settings).
+- Under CCPA and CPRA, California residents have the right to opt out of data collection and request data deletion.
+- Under GDPR, European users can withdraw consent at any time.
 
-You can opt-out of personalized ads through your device settings (AdMob opt-out instructions provided in settings).
-
-Under CCPA and CPRA, California residents have the right to opt out of data collection and request data deletion.
-
-Under GDPR, European users can withdraw consent at any time.
-
-6. Data Retention
+**6. Data Retention**
 We do not directly store any personal information. Third-party services may retain data for analytical and advertising purposes as per their retention policies.
 
-7. Children's Privacy
+**7. Children's Privacy**
 The Game is not directed toward children under 13. If you are a parent or guardian and believe your child has provided personal data, please contact us.
 
-8. Your Rights
+**8. Your Rights**
 Depending on your location, you may have the right to:
 
-Access, correct, or delete your personal data (GDPR, CCPA, CPRA).
+- Access, correct, or delete your personal data (GDPR, CCPA, CPRA).
+- Withdraw consent for targeted advertising (GDPR).
+- Request details on data collected and shared with third parties (CalOPPA, CCPA).
 
-Withdraw consent for targeted advertising (GDPR).
+To exercise these rights, contact us at **[titanmobilegames@gmail.com](mailto\:titanmobilegames@gmail.com)**.
 
-Request details on data collected and shared with third parties (CalOPPA, CCPA).
-
-To exercise these rights, contact us at titanmobilegames@gmail.com.
-
-9. Security Measures
+**9. Security Measures**
 We take reasonable precautions to protect your data from unauthorized access or disclosure. However, no internet-based service can guarantee absolute security.
 
-10. Changes to This Privacy Policy
+**10. Changes to This Privacy Policy**
 We may update this Privacy Policy from time to time. Any changes will be posted within the Game and take effect upon posting. Continued use of the Game signifies your acceptance of the updated policy.
 
-11. Contact Information
+**11. Contact Information**
 If you have any questions about this Privacy Policy, you can contact us at:
-titanmobilegames@gmail.com
+**[titanmobilegames@gmail.com](mailto\:titanmobilegames@gmail.com)**
 
 By using Sudoku, you acknowledge that you have read and understood this Privacy Policy.
+
+
+
